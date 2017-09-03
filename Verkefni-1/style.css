@@ -1,0 +1,44 @@
+.container  {
+    fill: #e67;
+}
+.first {
+    fill: blue;
+}
+.second {
+    fill: red;
+}
+.third {
+    fill: green;
+}
+.fourth{
+    fill: black;
+}
+.fifth {
+    fill: gray;
+}
+.sixth {
+    fill: purple;
+}
+.seventh {
+    fill: pink;
+}
+.eighth {
+    fill: blue;
+}
+
+#circle {
+  border: 1px solid red;
+}
+
+.activeCircle {
+  fill: pink;
+}
+
+.active {
+  fill: red;
+  border: 1px solid red;
+}
+
+.container {
+  fill: pink;
+}
