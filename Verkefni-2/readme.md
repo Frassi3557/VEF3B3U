@@ -1,1 +1,1 @@
-https://github.com/Frassi3557/VEF3B3U/tree/master/Verkefni-2
+http://tsuts.tskoli.is/2t/0506992429/VEF3B3U/Verkefni-2/
