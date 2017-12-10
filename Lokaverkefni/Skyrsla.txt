@@ -1,1 +1,8 @@
-Byrja lokaverkefniğ meğ şví ağ skoğa Phaser, leikja framework, og fer í gegnum tutorials. Planiğ var ağ bæta viğ tilt controls til ağ stjórna leikmanni og vibration api sem myndi láta síman víbra şegar notandi safnar tokens. Af einhverri ástæğu fékk ég hvorugt til ağ virka, vibration api-inn vildi ekki láta símann víbra undir neinum kringumstæğum og fann ég enga almennilega leiğ til ağ implementera tilt controls.
+Byrja lokaverkefniÃ° meÃ° Ã¾vÃ­ aÃ° skoÃ°a Phaser, leikja framework, og fer Ã­ gegnum tutorials.
+PlaniÃ° var aÃ° bÃ¦ta viÃ° tilt controls til aÃ° stjÃ³rna leikmanni og vibration api sem myndi lÃ¡ta sÃ­man vÃ­bra Ã¾egar notandi safnar tokens.
+Af einhverri Ã¡stÃ¦Ã°u fÃ©kk Ã©g hvorugt til aÃ° virka, vibration api-inn vildi ekki lÃ¡ta sÃ­mann vÃ­bra undir neinum kringumstÃ¦Ã°um og fann Ã©g enga almennilega leiÃ° til aÃ° implementera tilt controls.
+
+-10.12.2017-
+FÃ¦ Vibration API til aÃ° virka Ã¡samt touch event sem lÃ¦tur litla kallinn hoppa er Ã½tt er Ã¡ skjÃ¡inn Ã¡ sÃ­manum.
+Gat ekki fundiÃ° Ãºt Ãºr tilt controls.
+Ãta Ã¾arf Ã¡ play area til Ã¾ess aÃ° sÃ­minn vÃ­bri Ã¾egar stjarnan dettur ofan Ã¡ kallinn.
